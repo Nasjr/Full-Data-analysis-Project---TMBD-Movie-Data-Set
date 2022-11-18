@@ -1,5 +1,5 @@
-# Full-Data-analysis-Project---TMBD-Movie-Data-Set
-This is a full data analysis project using the tmbd data set
+# Full-Data-analysis-Project---TMBD-Movie-DataSet
+This is a full data analysis project using the tmbd dataset
 I used this Data set to answer questions like :
 
 -What are the most popular genres between movies in this Dataset ?
